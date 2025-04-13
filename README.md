@@ -1,5 +1,5 @@
 <!-- Title Section -->
-<h1 align="center">Hi there, I'm Malaka Madhubhashana(pangolin96). 👋</h1>
+<h1 align="center">Hi there, I'm Malaka Madhubhashana (pangolin96). 👋</h1>
 
 <p align="center">
   I'm a passionate <b>Game Developer</b> and <b>Freelancer</b>, specializing in <b>Unity 3D</b>, <b>C# Programming</b>, and <b>Game Design</b>.  
